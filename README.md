@@ -7,10 +7,7 @@ A console-based **Expense Tracker** application built with **Java**, **JDBC**, a
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
-- [Database Setup](#database-setup)
-- [Project Setup in Eclipse](#project-setup-in-eclipse)
 - [Running the Application](#running-the-application)
 - [Usage Guide](#usage-guide)
 - [Architecture](#architecture)
